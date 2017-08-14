@@ -1,0 +1,23 @@
+{
+  "name": "service-tree",
+  "description": "An event driven service mini framework for the browser written in ES6",
+  "main": "service-tree.html",
+  "authors": [
+    "Sayem Shafayet <ishafayet@gmail.com> (http://ishafayet.me/)"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "service",
+    "framework",
+    "event",
+    "tree",
+    "service-tree"
+  ],
+  "homepage": "https://github.com/iShafayet/service-tree",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ]
+}
