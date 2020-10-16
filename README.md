@@ -1,4 +1,4 @@
-# service-tree
+# ServiceTree
 
 An event-driven, platform agnostic, compact framework for services/provider for the **browser** written in ES6.
 
